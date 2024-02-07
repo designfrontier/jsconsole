@@ -4,7 +4,7 @@
   "author": "Remy Sharp <remy@leftlogic.com>",
   "dependencies": {
     "connect": "1.8.x",
-    "node-uuid": "1.1.0"
+    "node-uuid": "1.4.8"
   },
   "main": "server.js",
   "private": true
